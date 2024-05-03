@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishma Senaweera</h1>
-<h3 align="center">I'm an undergraduate in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT) who is eager to explore and learn about new technologies.</h3>
+<h3 align="center">I'm a graduate of Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT) who is eager to explore and learn about new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmasenaweera&label=Profile%20views&color=0e75b6&style=flat" alt="ishmasenaweera" /> </p>
 
